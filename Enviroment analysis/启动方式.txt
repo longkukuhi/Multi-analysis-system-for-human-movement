@@ -1,0 +1,2 @@
+如果快捷方式不起效，
+可以直接运行，\环境分析_本地端\环境分析\LiveCameraSample\bin\Debug\LiveCameraSample
